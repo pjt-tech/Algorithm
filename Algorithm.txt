@@ -1,0 +1,4 @@
+Algorithm
+
+Selection Sort - 가장 작은 것 을 선택 하여 계속 앞으로 보냄
+
