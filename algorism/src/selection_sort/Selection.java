@@ -4,7 +4,7 @@ public class Selection {
 
 	public static void main(String[] args) {
 		//현재 배열을 출력하고 선택정렬을 한 뒤 다시 출력하여 확인
-		int[] data = {7,5,6,4,3,2,1};
+		int[] data = {7,9,5,6,4,3,2,1,8};
 		
 		print(data);
 		
